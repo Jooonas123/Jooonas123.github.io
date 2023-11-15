@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🤵🏻 About me
-I am :
+I am  ssssss :
 - Graph Neural Networks.
 - Open Environment Machine Learning 
 - Weakly Supervised Learning
