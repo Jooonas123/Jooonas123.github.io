@@ -23,7 +23,7 @@ I am a biomedical engineering master with research interests in oncology. My res
 - Single cell and spatial transcriptome
 
 # 🔥 News
-- *2023.11*: &nbsp;Nothing
+- *2023.05*: &nbsp;Winner of 2023 China State-Funded Postgraduate Overseas Study Program
 
 # 📝 Publications 
   · Hu X†, Li R†, Wu W,Fang K, Zhu Z ,Wang Y,Zhou L,Chen M,Dong C*,Shi S*. A Fe(III)-porphyrin-oxaliplatin(IV) nano platform
@@ -44,6 +44,14 @@ I am a biomedical engineering master with research interests in oncology. My res
 
 # 🎖 Honors and Awards
 - *2021.10*  To be updated
+- Extramural Communication
+  
+# 📖 Extramural Communication
+
+- *2018.07 - 2018.08* McMaster University Summer Exchange Program - Hamilton, Canada
+  Summer English Program with E-health Focus(Participation: Excellent)
+  
+- *2017.07 - 2017.07* Hong Kong Baptist Hospital Summer Exchange Program - Hong Kong
 
 # 📖 Educations
 - *2020.09 - 2023.06*, Tongji University - School of Medicine - Biomedical Engineering - Master
