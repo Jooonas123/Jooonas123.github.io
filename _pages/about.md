@@ -22,6 +22,10 @@ I am a biomedical engineering master with research interests in oncology. My res
 - Self replicating mRNA
 - Single cell and spatial transcriptome
 
+# 📖 Educations
+- *2020.09 - 2023.06*  Tongji University - School of Medicine - Biomedical Engineering - Master
+- *2015.09 - 2020.06*  Zhejiang Chinese Medical University - School of Medicne - Clinical Medicine - Bachelor
+
 # 🔥 News
 - *2023.05*: &nbsp;Winner of 2023 China State-Funded Postgraduate Overseas Study Program
 
@@ -40,23 +44,7 @@ I am a biomedical engineering master with research interests in oncology. My res
   · Zhou L†, Chen J†, Li R, Wei L, Xiong H, Wang C, Chai K, Chen M, Zhu Z, Yao T, Lin Y, Dong C*, Shi S*. Metal-PolyphenolNetwork Coated Prussian Blue Nanoparticles for Synergistic Ferroptosis and Apoptosis via 
   Triggered GPX4 Inhibition and
   Concurrent In Situ Bleomycin Toxification. Small. 2021 Nov;17(47):e2103919. (Q1,IF=15.153)
-
-
-# 🎖 Honors and Awards
-- *2021.10*  To be updated
-- Extramural Communication
   
-# 📖 Extramural Communication
-
-- *2018.07 - 2018.08* McMaster University Summer Exchange Program - Hamilton, Canada
-  Summer English Program with E-health Focus(Participation: Excellent)
-  
-- *2017.07 - 2017.07* Hong Kong Baptist Hospital Summer Exchange Program - Hong Kong
-
-# 📖 Educations
-- *2020.09 - 2023.06*, Tongji University - School of Medicine - Biomedical Engineering - Master
-- *2015.09 - 2020.06*, Zhejiang Chinese Medical University - School of Medicne - Clinical Medicine - Bachelor
-
 # 💬 Certificate of skills
 - Skills: Cell Biology (Cell-based assays, flow cytometry, confocal laser scan microscope, ELISA, ELISpot, etc.) ; Bioinformatics
 (Data processing from GEO, TCGA, SEER database; Data visualization of Single-Cell Analysis, WGCNA, etc.); Molecular Biology
@@ -68,9 +56,18 @@ Illustrator, etc.);
 Technical Engineer (2022)
 
 - Languages: Mandarin (Native); English (IELTS: 6.5, all subs ≥ 6.0)
+
+# 🎖 Honors and Awards
+- *2021.04*  Third Prize in the 6th National Academic English Vocabulary Competition 
   
-- Interests: Football：Second Place of Tongji University's 40th Friendship Cup (2021); Magic：Social welfare lecture for pupils in
-summer(Theme：Magic and Science, 2016)
+# 📖 Extramural Communication
+
+- *2018.07 - 2018.08* McMaster University Summer Exchange Program - Hamilton, Canada
+  Summer English Program with E-health Focus(Participation: Excellent)
+  
+- *2017.07 - 2017.07* Hong Kong Baptist Hospital Summer Exchange Program - Hong Kong
+  
+- Interests: Football：Second Place of Tongji University's 40th Friendship Cup (2021); Magic：Social welfare lecture for pupils in summer(Theme：Magic and Science, 2016)
 
 # 💻 Links
 - Bilibili: How to use SEER database ?  https://space.bilibili.com/17959754
