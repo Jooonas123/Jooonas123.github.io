@@ -46,7 +46,7 @@ I am a biomedical engineering master with research interests in oncology. My res
 - *2021.10*  To be updated
 
 # 📖 Educations
-- *2020.06 - 2023.09*, Tongji University - School of Medicine - Biomedical Engineering - Master
+- *2020.09 - 2023.06*, Tongji University - School of Medicine - Biomedical Engineering - Master
 - *2015.09 - 2020.06*, Zhejiang Chinese Medical University - School of Medicne - Clinical Medicine - Bachelor
 
 # 💬 Invited Talks
