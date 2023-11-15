@@ -26,7 +26,7 @@ I am  ssssss :
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Two papers are accepted by Machine Learning!
 - *2022.02*: &nbsp;🎉🎉 Three papers are accepted by NeurIPS 2022!
-- *2022.02*: &nbsp;🎉🎉 One paper is accepted by ICML 2022!
+- *2022.02*: &nbsp;
 
 # 📝 Publications 
 
