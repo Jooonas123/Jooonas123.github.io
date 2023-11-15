@@ -23,40 +23,31 @@ I am a biomedical engineering master with research interests in oncology. My res
 - Single cell and spatial transcriptome
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Two papers are accepted by Machine Learning!
-- *2022.02*: &nbsp;🎉🎉 Three papers are accepted by NeurIPS 2022!
-- *2022.02*: &nbsp;
+- *2023.11*: &nbsp;Nothing
 
 # 📝 Publications 
+  · Hu X†, Li R†, Wu W,Fang K, Zhu Z ,Wang Y,Zhou L,Chen M,Dong C*,Shi S*. A Fe(III)-porphyrin-oxaliplatin(IV) nano platform
+  for enhanced ferroptosis and combined therapy. J Control Release. 2022 Jun 20;348:660-671. (Q1,IF=11.467)
+  · Zhou L†, Chen J†, Sun Y, Chai K, Zhu Z, Wang C, Chen M, Han W, Hu X, Li R, Yao T, Li H, Dong C *, Shi S *. A Self-Amplified
+  Nanocatalytic System for Achieving "1+1+1>3" Chemodynamic Therapy on Triple Negative Breast Cancer. Journal of
+  Nanobiotechnology. 2021;19(1):261. (Q1,IF=9.429)
+  · Liu J†, Hu X†, Feng L, Lin Y, Liang S, Zhu Z, Shi S*, Dong C*. Carbonic anhydrase IX-targeted H-APBC nanosystem combined
+  with phototherapy facilitates the efficacy of PI3K/mTOR inhibitor and resists HIF-1α-dependent tumor hypoxia adaptation. J
+  Nanobiotechnology. 2022 Apr 12;20(1):187. (Q1,IF=9.429)
+  · Zhou L†, Chen J†, Li R, Wei L, Xiong H, Wang C, Chai K, Chen M, Zhu Z, Yao T, Lin Y, Dong C*, Shi S*. Metal-PolyphenolNetwork Coated Prussian Blue Nanoparticles for Synergistic Ferroptosis and Apoptosis via 
+  Triggered GPX4 Inhibition and
+  Concurrent In Situ Bleomycin Toxification. Small. 2021 Nov;17(47):e2103919. (Q1,IF=15.153)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/poster.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Lixiang**,**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [LPL S13 finals MVP top](https://github.com), **Gong Chenghua**, Yu Jianxiang, Tan Jiaqi, **CVPR 2023**
-- [KPL S32 finals MVP daye——nakelulu](https://github.com), **Gong Chenghua**, Yu Jianxiang, Tan Jiaqi, **CVPR 2023**
 
 # 🎖 Honors and Awards
-- *2021.10* Excellent Doctoral Dissertation Award, Computer Science and Technology, Nanjing Normal University
-- *2021.09* GuoRui Scholarship, 2019
-- *2018.05* ACM-ICPC Asia Regional Contest, Sliver Medal: Mudanjiang Site
-- *2018.05* ACM-ICPC Asia Regional Contest, Sliver Medal: BeiJing Site
+- *2021.10*  To be updated
 
 # 📖 Educations
-- *2022.06 - 2023.03 (now)*, East China Normal University
-- *2018.09 - 2022.06*, Nanjing Normal University 
+- *2020.06 - 2023.09*, Tongji University - School of Medicine - Biomedical Engineering - Master
+- *2015.09 - 2020.06*, Zhejiang Chinese Medical University - School of Medicne - Clinical Medicine - Bachelor
 
 # 💬 Invited Talks
-- *2021.06*, Nanjing Normal University 
-- *2021.03*, Nanjing Normal University 
+- *2021.06*, To be updated
 
 # 💻 Internships
-- *2019.05 - 2020.02*, Microsoft MRSA, China.
+- *2019.05 - 2020.02*, To be updated
