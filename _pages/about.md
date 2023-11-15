@@ -18,10 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🤵🏻 About me
-I am  ssssss :
-- Graph Neural Networks.
-- Open Environment Machine Learning 
-- Weakly Supervised Learning
+I am a biomedical engineering master with research interests in oncology. My research interests include topics in mRNA therapy and bioinformatics. Most recently, I am interested in the following topics:
+- Self replicating mRNA
+- Single cell and spatial transcriptome
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Two papers are accepted by Machine Learning!
