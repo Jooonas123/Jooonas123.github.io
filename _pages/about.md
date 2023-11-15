@@ -70,5 +70,5 @@ Technical Engineer (2022)
 - Interests: Football：Second Place of Tongji University's 40th Friendship Cup (2021); Magic：Social welfare lecture for pupils in summer(Theme：Magic and Science, 2016)
 
 # 💻 Links
-- Bilibili: How to use SEER database ?  https://space.bilibili.com/17959754
-- CSDN : Debug of bioinformatics https://blog.csdn.net/weixin_50923441?type=blog
+- Bilibili: [How to use SEER database ? ](https://space.bilibili.com/17959754)
+- CSDN : [Debug of bioinformatics](https://blog.csdn.net/weixin_50923441?type=blog)
