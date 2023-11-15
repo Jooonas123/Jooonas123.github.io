@@ -23,7 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhu Zhounan"
   avatar           : "images/pic.png"
-  bio              : "Tongji University,School of Medicine"
+  bio              : "Tongji University,
+                      School of Medicine"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
