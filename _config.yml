@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhu Zhounan"
-description              : " "
+description              : "Oncology"
 repository               : "Jooonas123/Jooonas123.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhu Zhounan"
   avatar           : "images/pic.png"
-  bio              : "East China Normal University,School of Data Science and Engineering"
+  bio              : "Tongji University,School of Medicine"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "1194776196@qq.com"
+  googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  email            : "zhuzhounan0718@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
