@@ -49,8 +49,20 @@ I am a biomedical engineering master with research interests in oncology. My res
 - *2020.09 - 2023.06*, Tongji University - School of Medicine - Biomedical Engineering - Master
 - *2015.09 - 2020.06*, Zhejiang Chinese Medical University - School of Medicne - Clinical Medicine - Bachelor
 
-# 💬 Invited Talks
-- *2021.06*, To be updated
+# 💬 Certificate of skills
+- Skills: Cell Biology (Cell-based assays, flow cytometry, confocal laser scan microscope, ELISA, ELISpot, etc.) ; Bioinformatics
+(Data processing from GEO, TCGA, SEER database; Data visualization of Single-Cell Analysis, WGCNA, etc.); Molecular Biology
+(Conducted cloning, PCRs, DNA, and RNA purification, in vitro transcription, etc.); Zoology (Establishment of tumor-bearing mice
+models, mouse handling (such as i.v./i.p.injections), in vivo imaging, etc.); Software (R, Python, SPSS, AMOS, Photoshop,
+Illustrator, etc.);
+
+- Certifications: Physician Qualification Certificate (2021); Medical English Test System (Top Level); Certificate of Radiomics
+Technical Engineer (2022)
+
+- Languages: Mandarin (Native); English (IELTS: 6.5, all subs ≥ 6.0)
+  
+- Interests: Football：Second Place of Tongji University's 40th Friendship Cup (2021); Magic：Social welfare lecture for pupils in
+summer(Theme：Magic and Science, 2016)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, To be updated
