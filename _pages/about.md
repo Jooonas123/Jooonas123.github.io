@@ -25,6 +25,7 @@ I am a biomedical engineering master with research interests in oncology. My res
 # 📖 Educations
 - *2020.09 - 2023.06*  Tongji University - School of Medicine - Biomedical Engineering - Master
 - *2015.09 - 2020.06*  Zhejiang Chinese Medical University - School of Medicne - Clinical Medicine - Bachelor
+  
 # 📝 Publications 
   · Hu X†, Li R†, Wu W,Fang K, Zhu Z ,Wang Y,Zhou L,Chen M,Dong C*,Shi S*. A Fe(III)-porphyrin-oxaliplatin(IV) nano platform
   for enhanced ferroptosis and combined therapy. J Control Release. 2022 Jun 20;348:660-671. (Q1,IF=11.467)
@@ -54,7 +55,7 @@ Technical Engineer (2022)
 - Languages: Mandarin (Native); English (IELTS: 6.5, all subs ≥ 6.0)
 
 # 🎖 Honors and Awards
-- *2023.05*: &nbsp;Winner of 2023 China State-Funded Postgraduate Overseas Study Program
+- *2023.05*  Winner of 2023 China State-Funded Postgraduate Overseas Study Program
 - *2021.04*  Third Prize in the 6th National Academic English Vocabulary Competition 
   
 # 📖 Extramural Communication
